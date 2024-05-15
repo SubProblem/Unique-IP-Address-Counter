@@ -22,7 +22,7 @@ After further research and optimization, a more efficient approach was devised u
     - CPU: AMD RYZEN 5 2600
     - SSD: Samsung SSD 870 EVO
     - File Size: 11 GB
-    - Columns: Over 1 Billion
+    - Rows: Over 1 Billion
 
 ### Performance Comparison
 
